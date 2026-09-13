@@ -1,0 +1,10 @@
+I have experience with building website  as a hobby that goes back to 2007.
+I started learning programming in 2011 when I started native android app development with Java and eclipse. I have published apps on Google Play.
+I learned native iOS app development with Swift and Xcode in 2014. I have published apps on the App Store.
+I started learning node.js with react.js in 2018.
+I built two Bixby capsules while working for Harman. 
+I have designed and built an ai powered English language learning platform which uses the OpenAI and the ElevenLabs APIs. The platform is hosted on Railway.
+I have worked with AWS to build a scalable and reliable backend for this platform. 
+I have also experience with localisation, user testing and project management in international software development projects.
+A sample of my projects are visible on my personal hub portfolio at isabelle bidou.com https://isabellebidou.com/.
+Most of my code is available on github under the name "isabellebidou" https://github.com/isabellebidou .

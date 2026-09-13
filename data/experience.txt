@@ -1,0 +1,35 @@
+-Technical Entrepreneur / Founder | Izzy Speak English | Paris, France | May 2026 – Present
+• Developing a digital English coaching platform for professionals and corporate clients.
+• Designed and launched the online platform, including website architecture, user experience and digital content.
+• Planned and managed the project from concept through deployment and continuous product improvement.
+• Developed a scalable coaching model combining online resources, individual coaching and corporate workshops.
+• Combine technical development with user research, product strategy, communication and customer needs.
+-English Teacher & Language Programme Designer | Sainte-Ursule Louise de Bettignies / Cerene Léon Delagrange | Paris, France | Sep 2023 – Present
+• Designed and delivered tailored English and Spanish learning programmes for children, young adults and professionals.
+• Developed digital and educational resources adapted to different learning needs.
+• Strengthened communication, coaching and presentation skills through teaching and business development.
+-Founder / Software Developer | Isabelle Bidou SASU | Paris, France | Sep 2022 – Oct 2023
+• Designed and developed web-based software solutions using JavaScript, React, Node.js and MongoDB.
+• Managed projects from technical conception through implementation.
+• Combined software development with client requirements, product thinking and problem-solving.
+-IT Project Manager | Dedalus | Le Plessis-Robinson, France | Jun 2021 – Dec 2021
+• Coordinated development activities within an Agile software team working on healthcare applications.
+• Participated in sprint planning, issue tracking and software delivery.
+• Supported cross-functional communication between technical and non-technical stakeholders.
+• Used Jira and Git within an Agile development environment.
+-Bixby Capsule Developer — Conversational AI | HARMAN International (Samsung) | Paris, France | May 2018 – Sep 2020
+• Developed conversational AI applications for Samsung Bixby using JavaScript and the Bixby development platform.
+• Designed, trained and optimised Natural Language Understanding (NLU) models for multilingual AI assistants.
+• Developed and refined conversational experiences based on user intent and language understanding.
+• Collaborated with product managers, linguists and software engineers to deliver intelligent voice experiences.
+• Worked at the intersection of software development, artificial intelligence and multilingual user experience.
+-Localization & QA Engineer | GlobeTech (Apple) | Cork, Ireland | Mar 2017 – Oct 2017
+• Performed localisation, linguistic validation and quality assurance for Apple software products.
+• Executed runtime testing across multiple Apple devices for the French-speaking market.
+• Identified, documented and communicated software issues to support product quality.
+-Software Developer | Huawei | Cork, Ireland | Jul 2013 – Mar 2016
+• Developed proof-of-concept web and mobile applications supporting indoor and outdoor geolocation technologies.
+• Designed and implemented software using Java, JavaScript, Android, Swift, PostgreSQL and web technologies.
+• Collaborated with engineering teams to deliver demonstration platforms for customers and technical stakeholders.
+• Participated in technical discussions, solution design and software delivery.
+• Worked across software development and technical stakeholder communication in an international engineering environment.

@@ -1,0 +1,17 @@
+personal information:
+-I am Isabelle Bidou's private chatbot 
+-This chatbot was built by Isabelle Bidou
+-born in Versailles grew up in southern France (Pyrenees Orientales).
+-has lived on the boarder between France and Spain,  15 years in Ireland, has been living in Paris since 2019.
+-Speaks English, and Spanish
+-Phd in Sociology - title: Le celtisme ouest européen entre polarisations et sédimentations sémantiques : du nationalisme irlandophile galicien au néo-archaïsme postmoderne / par Isabelle Bidou ; sous la direction de Jean Pavageau. 
+
+My motto? Believe in yourself. My mission? Make you believe in yourself.
+One of my proudest achievements in my early career was building a cross-platform learning app for Android, iOS, and the web that taught dance moves and reached over 10,000 downloads on Google Play only, just 2 years after it's first release. 💃
+Learning one difficult thing teaches you a lesson: you can learn the next difficult thing too. That is Power. 💪
+That's where Pedagogy meeting Technology becomes a game changer.
+These days, while learning python, agentic development and LLMs,  I'm exploring how language learning or learning in general, and technology can work together through AI-powered education, app development, and digital learning design.
+Fluent in English, French, and Spanish, I work across cultures and disciplines, turning learning experiences into skills, foundations and solutions.
+Also, if I don't know something yet, my first instinct is to learn it.
+
+Whether you're teaching machines to learn, helping humans communicate better, or doing a bit of both, I'd love to hear what you're working on.
