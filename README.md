@@ -11,5 +11,3 @@ pinned: false
 license: mit
 short_description: I know everything about Isabelle Bidou's profile
 ---
-
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
