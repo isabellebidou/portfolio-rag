@@ -5,8 +5,6 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-import requests
-
 # ============================================================
 # SQLITE WORKAROUND
 # Needed for Chroma on some Hugging Face Spaces environments
@@ -21,11 +19,6 @@ except Exception:
 
 import gradio as gr
 from langchain_chroma import Chroma
-
-#from langchain_community.document_loaders import (
-#    Docx2txtLoader,
-#    PyPDFLoader,
-#)
 from langchain_core.documents import Document
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_openai import ChatOpenAI
@@ -48,15 +41,6 @@ llm = ChatOpenAI(
 
 DOCS_DIR = "data"
 DB_DIR = "./chroma_db"
-from dotenv import load_dotenv
-
-load_dotenv()
-
-
-#API_KEY = os.getenv("DEEPSEEK_API_KEY")
-#API_URL = "https://api.deepseek.com/v1/chat/completions"
-#API_KEY = os.getenv("OPENAIKEY")
-API_URL  = "https://api.openai.com/v1/chat/completions"
 
 WELCOME_MESSAGE = (
     "Hello, I'm Isabelle Bidou's Online Minister. You may ask me questions "
@@ -79,49 +63,6 @@ embeddings = HuggingFaceEmbeddings(
 )
 
 print("Embedding model loaded.", flush=True)
-
-
-# ============================================================
-# DEEPSEEK API
-# ============================================================
-
-def call_LLM(messages):
-    """Send messages to LLM and return the assistant response."""
-
-    if not OPENAI_API_KEY:
-        return (
-            "The API key is missing. "
-            "Please configure API_KEY in your Space's Secrets."
-        )
-
-    headers = {
-        "Authorization": f"Bearer {OPENAI_API_KEY}",
-        "Content-Type": "application/json",
-    }
-
-    payload = {
-        "model": "deepseek-chat",
-        "messages": messages,
-        "temperature": 0.4,
-        "max_tokens": 700,
-    }
-
-    response = requests.post(
-        API_URL,
-        headers=headers,
-        json=payload,
-        timeout=60,
-    )
-
-    response.raise_for_status()
-
-    data = response.json()
-
-    try:
-        return data["choices"][0]["message"]["content"].strip()
-    except (KeyError, IndexError, TypeError):
-        print("Unexpected DeepSeek response:", data, flush=True)
-        return "I couldn't generate an answer."
 
 
 # ============================================================
@@ -483,11 +424,6 @@ Current question:
 Answer as Isabelle:
 """
 
-        # ----------------------------------------------------
-        # DeepSeek
-        # ----------------------------------------------------
-
-        #answer = call_LLM(
         answer  = llm.invoke(
             [
                 {
@@ -653,4 +589,3 @@ if __name__ == "__main__":
         server_name="0.0.0.0",
         server_port=port,
     )
-
