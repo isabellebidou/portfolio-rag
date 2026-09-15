@@ -16,13 +16,15 @@
 • Coordinated development activities within an Agile software team working on healthcare applications.
 • Participated in sprint planning, issue tracking and software delivery.
 • Supported cross-functional communication between technical and non-technical stakeholders.
-• Used Jira and Git within an Agile development environment.
+• Used Php, Jira and Git within an Agile development environment.
 -Bixby Capsule Developer — Conversational AI | HARMAN International (Samsung) | Paris, France | May 2018 – Sep 2020
 • Developed conversational AI applications for Samsung Bixby using JavaScript and the Bixby development platform.
 • Designed, trained and optimised Natural Language Understanding (NLU) models for multilingual AI assistants.
 • Developed and refined conversational experiences based on user intent and language understanding.
 • Collaborated with product managers, linguists and software engineers to deliver intelligent voice experiences.
 • Worked at the intersection of software development, artificial intelligence and multilingual user experience.
+. used: Bixby framework, Jira, Git, Agile methodologies, product management tools.
+
 -Localization & QA Engineer | GlobeTech (Apple) | Cork, Ireland | Mar 2017 – Oct 2017
 • Performed localisation, linguistic validation and quality assurance for Apple software products.
 • Executed runtime testing across multiple Apple devices for the French-speaking market.
@@ -33,3 +35,4 @@
 • Collaborated with engineering teams to deliver demonstration platforms for customers and technical stakeholders.
 • Participated in technical discussions, solution design and software delivery.
 • Worked across software development and technical stakeholder communication in an international engineering environment.
+. used : d3.js, javaScript, java, j2EE, Swift, postgreSql...

@@ -13,7 +13,7 @@ try:
     import pysqlite3
 
     sys.modules["sqlite3"] = pysqlite3
-except Exception:
+except ImportError:
     pass
 
 
