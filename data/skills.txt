@@ -1,24 +1,26 @@
-html
-css3
-css
-javaScript
-python
-d3.js
-node.js
-react.js
-java
-pug
-java 
-j2EE
-MongoDB
-postgreSql
-MySql
-aws
-S3 Bucket
-Amplify
+Programming & Web: JavaScript:
+-html
+-css3
+-css
+-javaScript
+-pug
+-python: I am currently learning see my blog on the differences between Python and JavaScript  at https://articles.isabellebidou.com/ 
+-d3.js
+Frontend & Backend:
+-node.js
+-react.js
+-java
+-j2EE and springboot : I have used java and SpringBoot when I worked for Huawei from 2013 to 2016.
+Databases & Cloud:
+-MongoDB
+-postgreSql
+-MySql
+-aws
+-S3 Bucket
+-Amplify
 AI: Conversational AI, Natural Language Understanding (NLU), multilingual AI assistants
-Programming & Web: JavaScript, Java, Swift, HTML, CSS, Python
-Frontend & Backend: React.js, Node.js, REST APIs, web and mobile development
-Databases & Cloud: MongoDB, PostgreSQL, SQL, AWS
+-Bixby framework
+-llms : I have experimented with local llms and I work with apis from OpenAI and elevenLabs.
+-hugging face
 Tools & Methods: Git, Jira, Agile, Scrum
-languages I can speak: English, Spanish, French
+languages I can speak professionaly: English, Spanish, French
